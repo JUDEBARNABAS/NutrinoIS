@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FTDI standard chips -->
+    <usb-device vendor-id="1027" />
+    
+    <!-- CP210x Silicon Labs bridge converters -->
+    <usb-device vendor-id="4292" />
+    
+    <!-- CH340/CH341/CH34x cheap bridge chips (very common on soil probes) -->
+    <usb-device vendor-id="6790" />
+    
+    <!-- Prolific PL2303 bridge converters -->
+    <usb-device vendor-id="1659" />
+</resources>
